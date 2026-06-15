@@ -1,3 +1,5 @@
 # My_life_be_like
 My life
-I want to make my own website, what do you think about it?
+I made my website! The first version is completely raw, with bugs, but mine! 
+
+https://ctf.tuaris.su
